@@ -9,3 +9,8 @@ export https_proxy=https://localhost:7890
 git config --global user.name "musong"
 git config --global user.email "txz32102@gmail.com"
 ```
+
+# current tcg simulator repo
+```txt
+https://github.com/Guyutongxue/genius-invokation
+```
