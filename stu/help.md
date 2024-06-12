@@ -14,3 +14,8 @@ git config --global user.email "txz32102@gmail.com"
 ```txt
 https://github.com/Guyutongxue/genius-invokation
 ```
+
+# prompt to gpt
+```txt
+I am reading a card game written in typescript, and i am quite new to this programming language, i will give you some code about this project. I want you to explain clearly about the code. I may ask you some specific qustions for some function or some lines. Ready?
+```
